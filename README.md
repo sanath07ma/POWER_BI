@@ -6,7 +6,8 @@ Objectives:
 Analyze and visualize Swiggy’s operational data to provide actionable insights.
 Track key performance indicators (KPIs) like order volume, customer ratings, delivery performance, and restaurant efficiency.
 Utilize Power BI features such as DAX calculations, data modeling, and interactive reporting for real-time analysis.
-🛠 Technologies & Tools Used
+
+Technologies & Tools Used:
 Power BI (Data Modeling, Reporting, and Visualization)
 Power Query (Data Extraction, Transformation, and Loading)
 DAX (Data Analysis Expressions) (Advanced Calculations and Custom Measures)
