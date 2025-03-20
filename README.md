@@ -1,4 +1,4 @@
-# POWER BI
+# SWIGGY LIVE DATA ANALYSIS
 Project Overview:
 This project focuses on building a Swiggy Live Data Analysis Dashboard using Power BI, leveraging Power Query, DAX, and advanced data visualization techniques. The dashboard provides comprehensive insights into Swiggy's operations, including restaurant performance, customer behavior, delivery efficiency, and more.
 
